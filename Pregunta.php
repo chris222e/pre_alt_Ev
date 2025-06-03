@@ -18,7 +18,7 @@ class Pregunta {
     public function getAll() {
         return [
             ['id' => 1, 'id_evaluacion' => 1, 'texto' => '¿Cuánto es 4+6?'],
-            ['id' => 2, 'id_evaluacion' => 2, 'texto' => '¿Quién descubrió América?']
+            ['id' => 2, 'id_evaluacion' => 2, 'texto' => '¿quien es el mejor jugador del mundo?']
         ];
     }
 }

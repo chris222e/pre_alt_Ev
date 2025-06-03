@@ -19,7 +19,7 @@ class Alternativa {
         return [
             ['id' => 1, 'id_pregunta' => 1, 'opcion' => '10'],
             ['id' => 2, 'id_pregunta' => 1, 'opcion' => '3'],
-            ['id' => 3, 'id_pregunta' => 2, 'opcion' => 'Cristóbal Colón']
+            ['id' => 3, 'id_pregunta' => 2, 'opcion' => 'Cristiano Ronaldo']
         ];
     }
 }
